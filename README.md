@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeEzyx
-- 👀 I’m interested in Lua
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in C# & C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: codeE_zyx is my Discord
 - 😄 Pronouns: ...
